@@ -1,6 +1,12 @@
 [
+    "index",
     "system",
+    "virtualmachine",
     "font",
     "color",
-    "input"
+    "input",
+    "shell",
+    "shelltool",
+    "termianl",
+    "desktopenvironment"
 ]
