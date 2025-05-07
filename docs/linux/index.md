@@ -1,3 +1,5 @@
-# Linux
+# Linux整理
 
-linux content test
+关于linux的一些整理内容
+
+(似乎必须要有index.md存在？放到对应文件夹下面)
